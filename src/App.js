@@ -33,7 +33,7 @@ function App() {
 
   useEffect(() => {
     fetchImages(pageNum);
-  }, []);
+  }, []); // eslint-disable-line
 
   const breakPointsColObj = {
     default: 6,
