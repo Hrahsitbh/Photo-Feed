@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "babd8dcfaf4b6c380adf0e28716f0e8a",
+    "revision": "f244d7744cf4a856a5eac48646894531",
     "url": "/Photo-Feed/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Photo-Feed/static/css/2.2a86faee.chunk.css"
   },
   {
-    "revision": "dc94862240f0fd0ae9ec",
-    "url": "/Photo-Feed/static/css/main.36d06101.chunk.css"
+    "revision": "d9d3bdbeb2c7604ed9dd",
+    "url": "/Photo-Feed/static/css/main.bd9787c4.chunk.css"
   },
   {
     "revision": "25e41dd8322850aac7da",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Photo-Feed/static/js/2.6017baa4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "dc94862240f0fd0ae9ec",
-    "url": "/Photo-Feed/static/js/main.e9b6b90e.chunk.js"
+    "revision": "d9d3bdbeb2c7604ed9dd",
+    "url": "/Photo-Feed/static/js/main.e2c71721.chunk.js"
   },
   {
     "revision": "77aab87ae6353ba593e8",
