@@ -25,7 +25,7 @@ function App() {
   }, [showModalImg]);
   
   const updateImg = type => {
-    let newImgIndex;
+    let newImgIndex = 0;
     if (type === 'prev' && modalImg > 0) newImgIndex = modalImg - 1;
     else if (type === 'next' && modalImg <= imagesArray.length) newImgIndex = modalImg + 1;
     setModalImg(newImgIndex);
@@ -64,7 +64,7 @@ function App() {
           </div>
         </div>
         {
-          showModalImg &&
+          (showModalImg || modalImg < 0) &&
           <MyModal
             showModal={showModalImg}
             hideHandler={showImageModal}
